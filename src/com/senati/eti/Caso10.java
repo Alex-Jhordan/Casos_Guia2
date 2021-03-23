@@ -8,7 +8,7 @@ public class Caso10 {
 		
 		Scanner a = new Scanner(System.in);
 		
-		System.out.println("\nResultados");
+		System.out.println("Resultados");
 		
 		System.out.print("Trabajador: ");
 		String trabajador = a.nextLine();
